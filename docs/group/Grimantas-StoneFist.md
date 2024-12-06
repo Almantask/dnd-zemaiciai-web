@@ -1,6 +1,6 @@
 # Grimantas Stonefist (Linas)
 
-![](img/Grimantas.jpeg)
+![](../../static/img/group/Grimantas.jpeg)
 
 382 metai.
 

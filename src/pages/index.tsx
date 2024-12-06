@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import Gallery from '@site/src/components/Gallery';
 
 import styles from './index.module.css';
 
@@ -27,10 +28,7 @@ export default function Home(): JSX.Element {
     <Layout
       title={`${siteConfig.title}`}
       description="D&D Žemaičiai">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+      <Gallery/>
     </Layout>
   );
 }
