@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/zemaitiu_herbas.ico',
 
   // Set the production url of your site here
-  url: 'https://dnd-zemaiciai.com',
+  url: 'https://dnd-zemaiciai-web.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +19,6 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'almantask', // Usually your GitHub org/user name.
   projectName: 'dnd-zemaiciai-web', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
