@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'D&D Žemaičiai',
-  tagline: 'Tarp pagonybės ir krikčionybės, tarp mitų ir realybės',
+  tagline: 'Tarp pagonybės ir krikščionybės, tarp mitų ir realybės',
   favicon: 'img/zemaitiu_herbas.ico',
 
   // Set the production url of your site here
@@ -26,8 +26,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'lt',
-    locales: ['lt'],
+    defaultLocale: 'lt-LT',
+    locales: ['lt-LT'],
   },
 
   presets: [
@@ -62,7 +62,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/zemaitiu_herbas.ico',
     navbar: {
       title: 'D&D Žemaičiai',
       logo: {
@@ -105,6 +105,10 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    doc: {
+      next: 'Kitas',
+      previous: 'Ankstesnis',
     },
   } satisfies Preset.ThemeConfig,
 };
