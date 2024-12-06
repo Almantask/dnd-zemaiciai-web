@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "D&D Žemaičiai",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Žemaičių herbas",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Sesijos": {
+    "message": "Sesijos",
+    "description": "Navbar item with label Sesijos"
+  },
+  "item.label.Grupė": {
+    "message": "Grupė",
+    "description": "Navbar item with label Grupė"
+  },
+  "item.label.Kainoraštis": {
+    "message": "Kainoraštis",
+    "description": "Navbar item with label Kainoraštis"
+  },
+  "item.label.Vietovės": {
+    "message": "Vietovės",
+    "description": "Navbar item with label Vietovės"
+  },
+  "item.label.Personažai": {
+    "message": "Personažai",
+    "description": "Navbar item with label Personažai"
+  }
+}

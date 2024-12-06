@@ -5,7 +5,8 @@ sidebar_position: 1
 # Sesija I
 
 Sesijos data: 2024 lapkričio 30
-Žaidimo data: 1408, rugpjūčio 17-21.
+
+Žaidimo data: 1408, rugpjūčio 17-21
 
 # Kontekstas
 
