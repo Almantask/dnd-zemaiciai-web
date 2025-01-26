@@ -22,7 +22,7 @@ Jūs susitinkate [Mẽdininkuose](../locations/Medininkai), tavernoje. Ten sutik
 
 Jūs taip pat sužinot, kad [Vytautas](../characters/Vytautas) šiuo metu yra dingęs ir jau pusė metų apie jį nėra jokių žinių. 
 
-![](img/Medininkai.jpg)
+![](\img\sessions\Medininkai.jpg)
 
 # Kaukas ir pazadas
 **1408-08-19**
@@ -35,4 +35,4 @@ Trečią dieną sutikot berniuką miške, kurį pirmasis pamato [Grimantas](../g
 
 Paskutinę dieną atvykstat į pasalos vietą. Išvakarėse, [Vėja](../group/Veja-Laume-Vilke) išėjo į mišką rinkti žolelių, [Thornas](../group/Thorn-Shagar) ją sekė, nes nepasitikėjo. [Vėja](../group/Veja-Laume-Vilke) pasiklydo. Galiausiai visi išėjo ieškoti, bet tai atėmė pusdienį laiko. Sekančią dieną pakaitomis ėjot miegoti. Jūs pasislėpėte kiek toliau, miške. Ėjot sargybą pakaitomis, kol kiti gavo pamiegoti (nes buvo pavargę po ieškojimo pasiklydusiojo). Pamatėt prajojusius kryžiuočius - prisiminėt, kad žvalgai nevilkės tų kryžiuočių aprangos, todėl juos praleidote, nėjot į konfrontaciją. Vėliau atjojo kita grupelė. Jie pasiliko arklius šiek tiek toliau nuo tilto, miške ir pasislėpė po tilto. Jūs irgi numanėt, kad tai tikriausiai ne kryžiuočių pasiuntinys, o dar kita grupė. Visgi, arkliai nuošaly - geras pasipelnymo būdas anot [Grimantas](../group/Grimantas-StoneFist) ir visi kiti sutikot. [Vakarė](../group/Vakare) išbūrė debesį ant žemės ir pasinaudodami ta priedanga, nuvarėte naujos grupės arklius ir išjojote tieisai pas kryžiuočius - iš ten kur jie turėtų atjoti.
  
-![](img/Riverroad.jpg)
+![](\img\sessions\Riverroad.jpg)
