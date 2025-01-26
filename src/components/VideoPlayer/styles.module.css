@@ -1,0 +1,15 @@
+.videoContainer {
+    max-width: 800px; /* Limit max width for larger screens */
+    margin: 20px auto; /* Center the video with spacing */
+    border-radius: 10px; /* Add rounded corners */
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for aesthetics */
+  }
+  
+  @media (max-width: 768px) {
+    .videoContainer {
+      max-width: 100%; /* Full width on smaller devices */
+      margin: 10px auto; /* Smaller margin for mobile */
+    }
+  }
+  
